@@ -1,0 +1,2 @@
+# Ideaop-website
+So I have the repository that is called trading ideas by interests and I was thinking of expanding before even finishing the app because my knowledge in web-dev is much higher than in app-dev and I started working on a website the whole Idea is a button that request random ideas from the database after clicking and those ideas all are related to jobs to do like if you are into programming  it gives you some coding ideas and if your business ...etc so I'll upload it so y'all see the progress  
